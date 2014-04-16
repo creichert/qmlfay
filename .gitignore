@@ -1,0 +1,7 @@
+*~
+*.swp
+.tmp/
+Library.js
+main.o
+Makefile
+qmlfay
